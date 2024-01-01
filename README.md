@@ -3,5 +3,5 @@ Doing a course in frontend and need a project which can develop during the time.
 
 Flow map 0.1; https://ibb.co/bBWwRxT
 
-Profile page concept art; [![bild](https://github.com/Randombork/Mywebsite1/assets/154435855/8c31c013-a715-4582-ac9e-867640e43681)](https://ibb.co/VjWVfFR)https://ibb.co/VjWVfFR
+Profile page concept art; https://ibb.co/VjWVfFR
 
