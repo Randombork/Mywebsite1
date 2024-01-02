@@ -10,3 +10,5 @@ Sign up concept art; https://ibb.co/kX6PJCb
 Log in concept art; https://ibb.co/cX6ZjRD
 
 Settings concept art; https://ibb.co/tK6m6Sc
+
+Lower part settings concept art; https://ibb.co/2kMKgVQ
